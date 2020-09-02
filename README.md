@@ -11,7 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 Only dependencies are numpy, rdkit and networkx, best installed via:
 
-`pip install {numpy, rdkit, networkx}`
+`pip install {numpy, networkx}`
+`conda install -c rdkit rdkit`
 
 
 ### Usage
