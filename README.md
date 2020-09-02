@@ -1,7 +1,7 @@
 # EMolCombiner
  A fragment-based molecule generation tool for drug discovery
 
-EMolCombiner offers a fast way to generate molecules with more control than other similar tools. Written in Python, the code is easy to modify for your purposes, yet fast, due to RDKITs' C++ backend.
+Piggybacking off EMolFrag, EMolCombiner offers a fast way to generate molecules with more control than other similar tools. Written in Python, the code is easy to modify for your purposes, yet fast, due to RDKITs' C++ backend.
 
 ## Getting Started
 
@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Only dependancies are numpy, rdkit and networkx, best installed via:
+Only dependencies are numpy, rdkit and networkx, best installed via:
 
 `pip install {numpy, rdkit, networkx}`
 
