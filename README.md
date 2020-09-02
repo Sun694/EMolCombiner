@@ -37,7 +37,7 @@ Only required arg is the EMolFrag output directory; everything else has reasonab
 
 ### Example outputs:
 
-![](ims\images_collage.png)
+![](images_collage.png)
 
 ## License
 
